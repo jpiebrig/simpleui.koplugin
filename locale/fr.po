@@ -125,8 +125,7 @@ msgstr "0 % de transparence, 100 % d'opacité. S'applique sur toute la largeur d
 
 #: infra/sui_config.lua:1296
 msgid "0% transparent, 100% solid. Values in between add a scrim over the wallpaper."
-msgstr ""
-"0 % de transparence, 100 % d'opacité. Les valeurs intermédiaires ajoutent un voile sur le fond "
+msgstr "0 % de transparence, 100 % d'opacité. Les valeurs intermédiaires ajoutent un voile sur le fond "
 "d'écran."
 
 #: modules/module_collections.lua:1341
@@ -485,8 +484,7 @@ msgstr "Échec de la sauvegarde."
 
 #: features/sui_backup.lua:946
 msgid "Backup loaded. Choose what to import, then tap \"Restore Selected…\"."
-msgstr ""
-"Sauvegarde chargée. Choisissez les éléments à importer, puis appuyez sur « Restaurer la "
+msgstr "Sauvegarde chargée. Choisissez les éléments à importer, puis appuyez sur « Restaurer la "
 "sélection… »."
 
 #: features/sui_backup.lua:1004
@@ -499,8 +497,7 @@ msgstr ""
 
 #: features/sui_backup.lua:580
 msgid "Backup was made by a newer SimpleUI version. Please update this plugin first."
-msgstr ""
-"La sauvegarde a été effectuée à l'aide d'une version plus récente de SimpleUI. D'abord mettre "
+msgstr "La sauvegarde a été effectuée à l'aide d'une version plus récente de SimpleUI. D'abord mettre "
 "à jour ce plugin."
 
 #: engines/sui_book_grid.lua:2108 modules/module_collections.lua:1372 screens/sui_menu.lua:3302
@@ -607,8 +604,7 @@ msgstr "Navigateur de signets"
 
 #: features/sui_quickactions.lua:438
 msgid "Bookmark browser requires a newer KOReader. Please update."
-msgstr ""
-"Le navigateur de signets nécessite une version plus récente de KOReader. Effectuer la mise à "
+msgstr "Le navigateur de signets nécessite une version plus récente de KOReader. Effectuer la mise à "
 "jour."
 
 #: features/sui_quickactions.lua:862 infra/sui_config.lua:125
@@ -991,8 +987,7 @@ msgstr "Couverture de « %s »"
 
 #: infra/sui_compat_check.lua:212
 msgid "CoverBrowser plugin is not enabled, some features will not work correctly."
-msgstr ""
-"Le plugin CoverBrowser n'est pas activé ; certaines fonctionnalités ne fonctionneront donc pas "
+msgstr "Le plugin CoverBrowser n'est pas activé ; certaines fonctionnalités ne fonctionneront donc pas "
 "correctement."
 
 #: modules/module_coverdeck.lua:154
@@ -1261,14 +1256,12 @@ msgstr "Numérique"
 
 #: screens/sui_menu.lua:2621
 msgid "Disable \"Lock Scale\" first to set a custom label scale."
-msgstr ""
-"Désactivez d'abord l'option « Verrouiller l'échelle » pour définir une échelle d'étiquettes "
+msgstr "Désactivez d'abord l'option « Verrouiller l'échelle » pour définir une échelle d'étiquettes "
 "personnalisée."
 
 #: infra/sui_config.lua:1222
 msgid "Disable \"Lock Scale\" first to set a per-module scale."
-msgstr ""
-"Désactivez d'abord l'option « Verrouiller l'échelle » pour définir une échelle propre à chaque "
+msgstr "Désactivez d'abord l'option « Verrouiller l'échelle » pour définir une échelle propre à chaque "
 "module."
 
 #: infra/sui_config.lua:196
@@ -1354,8 +1347,7 @@ msgstr "Activé"
 #: features/sui_quickactions.lua:1012 features/sui_quickactions.lua:1030
 #: features/sui_quickactions.lua:1048
 msgid "Enable 'Browse by Author / Series / Tags' in the library menu first."
-msgstr ""
-"Activez d'abord « Parcourir par Auteur/séries/Étiquettes » dans le menu de la bibliothèque."
+msgstr "Activez d'abord « Parcourir par Auteur/séries/Étiquettes » dans le menu de la bibliothèque."
 
 #: screens/sui_menu.lua:2936
 msgid "Enable Browse by Author / Series / Tags"
@@ -1735,8 +1727,7 @@ msgstr ""
 
 #: screens/sui_onboarding.lua:165
 msgid "Go to Settings > Home Screen to edit your layout whenever you want."
-msgstr ""
-"Allez dans Paramètres > Écran d'accueil pour modifier votre disposition quand vous le "
+msgstr "Allez dans Paramètres > Écran d'accueil pour modifier votre disposition quand vous le "
 "souhaitez."
 
 #: modules/module_reading_goals.lua:1312 modules/module_reading_goals.lua:1377
@@ -3379,8 +3370,7 @@ msgstr "Réinitialiser toutes les icônes d'actions rapide par défaut ?"
 
 #: screens/sui_menu.lua:2653
 msgid "Reset all scales to default (100%)? This cannot be undone."
-msgstr ""
-"Réinitialiser toutes les échelles à la valeur par défaut (100%) ? Cette action est "
+msgstr "Réinitialiser toutes les échelles à la valeur par défaut (100%) ? Cette action est "
 "irréversible."
 
 #: features/sui_style.lua:1327
@@ -5163,20 +5153,20 @@ msgstr[1] "Le maximum de %d onglets a été atteint. Supprimez-en un d'abord."
 #: screens/sui_stats_windows.lua:1963
 msgid "day read"
 msgid_plural "days read"
-msgstr[0] "jour lu"
-msgstr[1] "jour de suite"
+msgstr[0] "jour de lecture"
+msgstr[1] "jous de lecture"
 
 #: modules/module_reading_stats.lua:142
 msgid "day streak"
 msgid_plural "days streak"
-msgstr[0] "série  du jour"
+msgstr[0] "jour de suite"
 msgstr[1] "jours de suite"
 
 #: screens/sui_stats_windows.lua:1978
 msgid "page read"
 msgid_plural "pages read"
 msgstr[0] "page lue"
-msgstr[1] "pages lues aujourd'hui"
+msgstr[1] "pages lues"
 
 #~ msgid "Return to Book Folder"
 #~ msgstr "Retour au dossier du livre"
