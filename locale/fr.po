@@ -121,8 +121,7 @@ msgstr ""
 
 #: screens/sui_menu.lua:2486
 msgid "0% transparent, 100% solid. Applies across the full width of the title bar."
-msgstr ""
-"0 % de transparence, 100 % d'opacité. S'applique sur toute la largeur de la barre de titre."
+msgstr "0 % de transparence, 100 % d'opacité. S'applique sur toute la largeur de la barre de titre."
 
 #: infra/sui_config.lua:1296
 msgid "0% transparent, 100% solid. Values in between add a scrim over the wallpaper."
